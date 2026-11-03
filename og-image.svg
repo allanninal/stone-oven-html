@@ -39,7 +39,7 @@
 
   <!-- CTA pill -->
   <rect x="80" y="440" width="300" height="64" rx="8" fill="#FFFFFF"/>
-  <text x="230" y="480" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#C0392B" text-anchor="middle">Order Online</text>
+  <text x="230" y="480" font-family="Arial, sans-serif" font-size="22" font-weight="bold" fill="#C0392B" text-anchor="middle">Order Ahead</text>
 
   <!-- Day badge -->
   <rect x="80" y="530" width="200" height="40" rx="6" fill="rgba(255,255,255,0.12)"/>
